@@ -14,5 +14,7 @@ ___
 ___
 # Customization Options
 Check the image below for the attributes of the gear that you may specify. Not pictured is the number of gear teeth.
+
 <img width="537" alt="GearExplanation" src="https://user-images.githubusercontent.com/32413097/111063407-9fec9980-84f1-11eb-9343-185e5e6afe7a.png">
-The diameter of the gear is not changable, as it is automatically calculated by the program.
+
+**The diameter of the gear is not changable, as it is automatically calculated by the program.**
